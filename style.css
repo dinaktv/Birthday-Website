@@ -502,7 +502,7 @@ section:nth-child(odd) .animate.scroll{
   }
   
   .home{
-    background:var(--second-bg-color);
+    background:url(bg15.jpeg);
   }
   
   .home-imgHover{
